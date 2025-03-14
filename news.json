@@ -8,15 +8,6 @@
       "avatar": "https://images-ext-1.discordapp.net/external/EnzgtAacaX13ntNoN5qAXPeYoxMOgvk1FfpRmrPhWIA/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/999022158489595975/f6752418f8efbda7aa3a479adc5f4842.png?format=webp&quality=lossless&width=320&height=320",
       "date": "Today",
       "imageurl": null
-    },
-    {
-      "id": 2,
-      "title": "new article",
-      "content": "now this should add a \\n New Line lol",
-      "author": "revokeasi",
-      "avatar": "https://cdn.discordapp.com/avatars/1339657714762256395/cea320fef25b88564b69e1d21b22ce05.webp",
-      "date": "2025-03-14",
-      "imageurl": null
     }
   ]
 }
